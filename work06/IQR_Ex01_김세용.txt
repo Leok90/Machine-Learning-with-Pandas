@@ -1,0 +1,5 @@
+IQR (interquartile range) : 3사분위수와 1사분위수 사이의 범위
+
+outlier(극단치 또는 이상점)
+- 최대값 초과 outlier : 3사분위수 + 1.5배 IQR 초과인 경우
+- 최소값 미만 outlier : 1사분위수 - 1.5배 IQR 미만인 경우

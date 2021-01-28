@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amphitheatre Parkway",
+               "short_name" : "Amphitheatre Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "미국",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94043",
+               "short_name" : "94043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Amphitheatre Pkwy, Mountain View, CA 94043 미국",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4221694,
+               "lng" : -122.0840641
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4235183802915,
+                  "lng" : -122.0827151197085
+               },
+               "southwest" : {
+                  "lat" : 37.4208204197085,
+                  "lng" : -122.0854130802915
+               }
+            }
+         },
+         "place_id" : "ChIJ2QHGpW-7j4ARe7z3NxQzggI",
+         "plus_code" : {
+            "compound_code" : "CWC8+V9 미국 캘리포니아 마운틴뷰",
+            "global_code" : "849VCWC8+V9"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amphitheatre Parkway",
+               "short_name" : "Amphitheatre Parkway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mountain View",
+               "short_name" : "Mountain View",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "미국",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94043",
+               "short_name" : "94043",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Amphitheatre Parkway, Mountain View, CA 94043 미국",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4117586,
+               "lng" : -122.0837692
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4131075802915,
+                  "lng" : -122.0824202197085
+               },
+               "southwest" : {
+                  "lat" : 37.4104096197085,
+                  "lng" : -122.0851181802915
+               }
+            }
+         },
+         "place_id" : "ChIJIRJfTiaxj4ARwWdcUWxiv70",
+         "plus_code" : {
+            "compound_code" : "CW68+PF 미국 캘리포니아 마운틴뷰",
+            "global_code" : "849VCW68+PF"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

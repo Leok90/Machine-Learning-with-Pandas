@@ -1,0 +1,18 @@
+no.   속성		데이터 상세(범위)
+1     mpg : 연비		연속 값
+2     cylinders : 실린더 수	이산 값(예시: 3, 4, 6, 8)
+3     displacement : 배기량	연속 값
+4     horsepower : 출력	연속 값
+5     weight : 차중		연속 값
+6     acceleration : 가속능력	연속 값
+7     model_year : 출시년도	이산 값(예: 70, 71, 80, 81)
+8     origin : 제조국	이산 값(예: 1(USA), 2(EU), 3(JPN)
+9     name : 모델명		문자열
+
+1 mi(mile) = 1760 yd = 1.6km
+
+1 gal(gallon) = 3.8 liter
+
+mi/gal = 1.6km / 3.8 liter
+
+kpl = mpg * 1.6 / 3.8

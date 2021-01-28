@@ -1,0 +1,17 @@
+컬럼별 속성
+
+survived:	생존여부 (1:생존, 0:사망)
+pclass: 티켓 클래스 (1, 2, 3)
+sex: 성별	(male, female)
+age: 연령 
+sibsp: 타이타닉에 탑승한 형제자매/배우자 수
+parch: 타이타닉에 탑승한 부모/자식 수
+fare: 승객요금
+embarked: 출항지 앞글자
+class: 계층 (First, Second, Third)
+who: 성인 남녀/아이 구분 (man, woman, child)
+adult_male: 성인 남자인지 여부 (True, False)
+deck: 선실
+embark_town: 출항지
+alive: 생존여부 (yes, no)
+alone: 혼자 탑승했는 지 여부 (True, False)
